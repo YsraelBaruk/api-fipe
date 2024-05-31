@@ -1,4 +1,4 @@
-package com.example.israel.ApiTabelaFipe.service;
+package com.example.israel.apitablefipe.service;
 
 import java.io.IOException;
 import java.net.URI;

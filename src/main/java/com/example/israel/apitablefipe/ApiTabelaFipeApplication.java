@@ -1,6 +1,6 @@
-package com.example.israel.ApiTabelaFipe;
+package com.example.israel.apitablefipe;
 
-import com.example.israel.ApiTabelaFipe.main.Main;
+import com.example.israel.apitablefipe.main.Main;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
